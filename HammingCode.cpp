@@ -6,7 +6,7 @@ using namespace std;
 int main ()
 {
     //freopen("in.txt", "r", stdin);
-    int k, errorSize;
+    int k;
     cout << "Enter the No of Data Bits you want to Enter (Maximum 20) : ";
     cin >> k;
 
